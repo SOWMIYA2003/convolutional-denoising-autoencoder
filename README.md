@@ -12,7 +12,7 @@ Dataset:
 The MNIST dataset, a collection of handwritten digits, is used for this task. It consists of 60,000 training images and 10,000 test images, each of size 28x28 pixels in grayscale.
 ## Convolution Autoencoder Network Model
 
-Include the neural network model diagram.
+![OP](./QA.png)
 
 ## DESIGN STEPS
 
