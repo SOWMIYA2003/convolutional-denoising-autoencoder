@@ -34,6 +34,10 @@ Reconstruct noisy images from the test set using the trained autoencoder, and di
 
 ## PROGRAM
 ```
+Sowmiya N
+212221230106
+```
+```
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras import utils
